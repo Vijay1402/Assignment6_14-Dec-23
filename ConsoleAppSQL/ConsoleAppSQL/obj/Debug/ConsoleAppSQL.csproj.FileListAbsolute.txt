@@ -1,0 +1,7 @@
+G:\SimpliLearn\Phase 2\Day 6\ConsoleAppSQL\ConsoleAppSQL\bin\Debug\ConsoleAppSQL.exe.config
+G:\SimpliLearn\Phase 2\Day 6\ConsoleAppSQL\ConsoleAppSQL\bin\Debug\ConsoleAppSQL.exe
+G:\SimpliLearn\Phase 2\Day 6\ConsoleAppSQL\ConsoleAppSQL\bin\Debug\ConsoleAppSQL.pdb
+G:\SimpliLearn\Phase 2\Day 6\ConsoleAppSQL\ConsoleAppSQL\obj\Debug\ConsoleAppSQL.csproj.AssemblyReference.cache
+G:\SimpliLearn\Phase 2\Day 6\ConsoleAppSQL\ConsoleAppSQL\obj\Debug\ConsoleAppSQL.csproj.CoreCompileInputs.cache
+G:\SimpliLearn\Phase 2\Day 6\ConsoleAppSQL\ConsoleAppSQL\obj\Debug\ConsoleAppSQL.exe
+G:\SimpliLearn\Phase 2\Day 6\ConsoleAppSQL\ConsoleAppSQL\obj\Debug\ConsoleAppSQL.pdb
